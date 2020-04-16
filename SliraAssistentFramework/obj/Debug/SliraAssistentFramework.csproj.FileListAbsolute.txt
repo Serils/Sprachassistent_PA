@@ -1,0 +1,14 @@
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework.csprojAssemblyReference.cache
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\MainWindow.g.cs
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\App.g.cs
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework_MarkupCompile.cache
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework_MarkupCompile.lref
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\bin\Debug\SliraAssistentFramework.exe.config
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\bin\Debug\SliraAssistentFramework.exe
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\bin\Debug\SliraAssistentFramework.pdb
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\MainWindow.baml
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework.g.resources
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework.Properties.Resources.resources
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework.csproj.GenerateResource.cache
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework.exe
+C:\Users\Nils Hauser\source\repos\SliraAssistentFramework\SliraAssistentFramework\obj\Debug\SliraAssistentFramework.pdb
