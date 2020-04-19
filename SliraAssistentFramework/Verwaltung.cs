@@ -93,13 +93,18 @@ namespace SliraAssistentFramework
             else { return false; }
         }
 
+
+        //Wecker get und set Methoden
         public List getWeckerList()
         {
             return wecker;
         }
 
-        //test Methode
-        public Boolean weckerActive(Time pTimenow) { return true; }
+
+        public Boolean weckerActive(Time pTimenow) 
+        { 
+            return true; 
+        }
         public WeckerTyp testWecker = new WeckerTyp();
         public WeckerTyp searchActiveWecker(Time pTimenow) { return testWecker; }
 
